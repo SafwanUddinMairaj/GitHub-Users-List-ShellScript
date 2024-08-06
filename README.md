@@ -27,8 +27,8 @@ sudo yum install curl jq
     export username="your-github-username"
     export token="your-personal-accesstoken"
     ```
-    
-2. **Grant permission according to your need using chmod command:
+
+2. **Grant permission according to your need using chmod command**
     
 3. **Run the script** with the repository owner's username and repository name as arguments:
 
