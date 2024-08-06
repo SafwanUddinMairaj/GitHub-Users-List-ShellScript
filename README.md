@@ -13,11 +13,16 @@ To use this script, you need to have a GitHub personal access token with the nec
 ### Installation
 
 Ensure you have `curl` and `jq` installed on your system. You can install them using the following commands:
-**For Debian/Ubuntu**
-sudo apt-get install curl jq
 
-**For RedHat/CentOS**
+**For Debian/Ubuntu:**
+```bash
+sudo apt-get install curl jq
+```
+
+**For Debian/Ubuntu:**
+```bash
 sudo yum install curl jq
+```
 
 ## Script Usage
 
