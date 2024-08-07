@@ -19,7 +19,7 @@ Ensure you have `curl` and `jq` installed on your system. You can install them u
 sudo apt-get install curl jq
 ```
 
-**For Debian/Ubuntu:**
+**For CentOS:**
 ```bash
 sudo yum install curl jq
 ```
